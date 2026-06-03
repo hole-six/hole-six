@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://hole-six.site/static/media/profile.859273a769f15458e1c8.jpg" width="160" style="border-radius: 50%;" alt="Lê Hòa — hole-six" />
 </div>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000510,50:0d1b2a,100:1a3a5c&height=220&section=header&text=Lê%20Hòa&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Polyglot%20Full-Stack%20Developer%20%7C%20hole-six&descAlignY=58&descSize=20" width="100%"/>
+</div>
 ## 💫 A Little Bit More About Me
 
 <p>🔭 I'm currently working on Full-Stack Web Systems & Scalable Architectures</p>
