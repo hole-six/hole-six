@@ -113,9 +113,9 @@
 
 ## 🌐 Connect
 
-- 📧 Email: **hole_six@hiweb.vn**
+- 📧 Email: **hoadt122@gmail.com**
 - 💻 GitHub: https://github.com/hole-six
-- 🌐 Profile: https://profile-lehoa.onrender.com
+- 🌐 Profile: hole-six.site
 - 🌍 Website: https://websitegiare.netlify.app
 
 ---
