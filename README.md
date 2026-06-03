@@ -1,6 +1,6 @@
-<a href="https://hole-six.site" target="_blank">
-  <img src="svg/lehoa.svg" width="1200" alt="LeHoa_hole-six" />
-</a>
+<div align="center">
+  <img src="https://hole-six.site/static/media/profile.859273a769f15458e1c8.jpg" width="160" style="border-radius: 50%;" alt="Lê Hòa — hole-six" />
+</div>
 
 ## 💫 A Little Bit More About Me
 
