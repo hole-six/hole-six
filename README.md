@@ -138,8 +138,8 @@
   <a href="https://hole-six.site" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/domain.png" alt="lehoa-portfolio" />
   </a>
-  <a href="https://websitegiare.netlify.app" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/internet.png" alt="lehoa-web" />
+ <a href="https://www.youtube.com/@nvlmf9597" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="linhnguyen-youtube" />
   </a>
   <a href="https://github.com/hole-six" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/github.png" alt="lehoa-github" />
