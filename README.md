@@ -1,223 +1,117 @@
+<a href="#" target="_blank">
+  <img src="svg/linhnguyen.svg" width="1200" alt="LinhNguyenNVL" />
+</a>
+
+## 💫 Liitle Bit More About Me
+
+<p>🔭 I'm currently working on Student&Website Developer</p>
+<p>🌱 I'm currently learning Java, PHP, SQL, JS, MySQL, C#</p>
+<p>📫 How to reach me? vanlinh11nguyenlinh@gmail.com</p>
+
+
+# 💻Languages and Tools:
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nguyenvanlinh1105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanlinh1105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=nguyenvanlinh1105)
+
+### 📈 User Statistics
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanlinh1105">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenvanlinh1105&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvanlinh1105">
+          <img width="705" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvanlinh1105&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <!-- <a href="https://activity-graph.herokuapp.com/graph?username=nguyenvanlinh1105">
+          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=nguyenvanlinh1105&theme=dracula">
+        </a> -->
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenvanlinh1105">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nguyenvanlinh1105&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenvanlinh1105&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nguyenvanlinh1105&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenvanlinh1105">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nguyenvanlinh1105&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenvanlinh1105">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nguyenvanlinh1105&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
+<br>
+<h2 align="center">👉 Where to find me ? 👈</h2>
+<br>
+<!-- https://icons8.com -->
 <div align="center">
-
-<!-- HEADER TERMINAL ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=600&color=00FFA3&center=true&vCenter=true&repeat=true&width=700&lines=Lê+Hòa+%2F%2F+Full-Stack+Engineer;Polyglot+Developer+%7C+6%2B+Languages;Architecture+First.+Code+Second.;Build+systems+that+outlive+the+hype.)](https://github.com/hole-six)
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  hole-six@arch:~$ whoami                                 ║
-║  > Lê Hòa — Polyglot Full-Stack Developer               ║
-║  hole-six@arch:~$ cat philosophy.txt                     ║
-║  > "Languages change. Principles stay."                  ║
-║  hole-six@arch:~$ uptime                                 ║
-║  > Always building. Never settling.                      ║
-╚══════════════════════════════════════════════════════════╝
-```
-
+  <a href="https://www.facebook.com/nguynlinh.1105" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="linhnguyen-facebook" />
+  </a>
+  <a href="https://www.youtube.com/@nvlmf9597" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="linhnguyen-youtube" />
+  </a>
+  <a href="https://www.linkedin.com" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linhnguyen-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/_nguyn.linh/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="linhnguyen-instagram" />
+  </a>
+  <a href="mailto:vanlinh11nguyenlinh@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="linhnguyen-email" />
+  </a>
 </div>
 
----
-
-<div align="center">
-
-## `$ cat /dev/brain`
-
-</div>
-
-```yaml
-name       : Lê Hòa
-alias      : hole-six
-role       : Polyglot Full-Stack Developer
-mindset    : Architecture-first, framework-agnostic
-principle  : Understand systems → Choose right tools → Build to last
-focus      : Frontend · Backend · System Design · Scalability
-```
+<br>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nguyenvanlinh1105&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⬡ Language Matrix
 
-<div align="center">
 
-| Layer | Language | Strength |
-|-------|----------|----------|
-| ⚙️ System / Low-level | `C` `C++` | Memory management, DSA foundations |
-| 🏢 Enterprise / OOP | `Java` `C#` | Architecture patterns, DI, enterprise systems |
-| 🌐 Web Backend | `PHP` `Node.js` | REST APIs, server-side logic |
-| 🎨 Frontend | `TypeScript` `JavaScript` | Type-safe UI, reactive systems |
 
-</div>
-
----
-
-## ⬡ Stack Depth
-
-<details>
-<summary><b>🎨 Frontend</b></summary>
-
-```
-React ████████████████░░░░  80%   Component architecture, hooks, state management
-Vue   ████████████░░░░░░░░  65%   Composition API, reactive patterns
-TS    ████████████████████  95%   Strict typing, generics, advanced patterns
-```
-</details>
-
-<details>
-<summary><b>🧠 Backend</b></summary>
-
-```
-Node.js      ████████████████░░░░  80%   Express, REST, async patterns
-Laravel      ███████████████░░░░░  75%   MVC, Eloquent ORM, middleware
-ASP.NET Core ████████████░░░░░░░░  65%   Enterprise API, dependency injection
-Java         ████████████░░░░░░░░  60%   Spring patterns, OOP depth
-```
-</details>
-
-<details>
-<summary><b>🗄 Data</b></summary>
-
-```
-MySQL        ████████████████████  90%   Complex queries, indexing, optimization
-SQL Server   ████████████░░░░░░░░  65%   T-SQL, stored procedures
-Database Design ████████████████░  80%   ERD, normalization, schema architecture
-```
-</details>
-
-<details>
-<summary><b>🏗 Architecture</b></summary>
-
-```
-RESTful API   ████████████████████  95%
-MVC Pattern   ████████████████████  95%
-Clean Code    ████████████████░░░░  85%
-OOP Principles████████████████████  90%
-Data Structures & Algo ████████░░░  70%
-```
-</details>
-
----
-
-## ⬡ Architecture Principles
-
-```
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   DB Schema → API Layer → Business Logic → UI       │
-│                                                     │
-│   Every layer:  Testable · Replaceable · Clear      │
-│                                                     │
-│   Not: "make it work"                               │
-│   But: "make it right, then make it fast"           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![REST API](https://img.shields.io/badge/RESTful_API-Design-00FFA3?style=flat-square&labelColor=0d1117)
-![MVC](https://img.shields.io/badge/MVC-Architecture-00FFA3?style=flat-square&labelColor=0d1117)
-![Clean Code](https://img.shields.io/badge/Clean_Code-Principles-00FFA3?style=flat-square&labelColor=0d1117)
-![OOP](https://img.shields.io/badge/OOP-SOLID-00FFA3?style=flat-square&labelColor=0d1117)
-![DSA](https://img.shields.io/badge/DSA-Foundations-00FFA3?style=flat-square&labelColor=0d1117)
-
-</div>
-
----
-
-## ⬡ Toolchain
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-Actions_/_CI-ffffff?style=flat-square&logo=github&logoColor=black&labelColor=0d1117)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-Primary_Env-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117)
-![VSCode](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
-
-</div>
-
----
-
-## ⬡ GitHub Signal
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hole-six&show_icons=true&theme=github_dark&title_color=00FFA3&icon_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=hole-six&theme=github-dark-blue&hide_border=true&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&background=0d1117" />
-
-</div>
-
-<div align="center">
-
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hole-six&layout=compact&theme=github_dark&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-## ⬡ Contribution Grid
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hole-six/hole-six/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hole-six/hole-six/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://github.com/hole-six/hole-six/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## ⬡ What I Actually Build
-
-```
-database ──────────────► API ──────────────► UI
-   │                      │                  │
-Schema design         REST / Auth        React / Vue
-Normalization         Business logic     TypeScript
-ERD modeling          Middleware         Component arch
-                      Error handling     State mgmt
-```
-
-> From zero to production. Across any stack.
-
----
-
-## ⬡ The Way I Work
-
-```
-01. Understand the domain first — not the tech
-02. Design the data model before writing a line
-03. API contract before frontend starts
-04. Refactor relentlessly — good code is rewritten
-05. Document what matters, not everything
-```
-
----
-
-<div align="center">
-
-## ⬡ Connect
-
-[![Email](https://img.shields.io/badge/hoadt122%40gmail.com-Mail-00FFA3?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hoadt122@gmail.com)
-[![GitHub](https://img.shields.io/badge/hole--six-GitHub-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/hole-six)
-[![Portfolio](https://img.shields.io/badge/hole--six.site-Portfolio-00FFA3?style=flat-square&logo=firefox&logoColor=white&labelColor=0d1117)](https://hole-six.site)
-[![Web](https://img.shields.io/badge/websitegiare.netlify.app-Web-00FFA3?style=flat-square&logo=netlify&logoColor=white&labelColor=0d1117)](https://websitegiare.netlify.app)
-
----
-
-```
-╔══════════════════════════════════════════╗
-║                                          ║
-║   Polyglot by skill.                     ║
-║   Architect by mindset.                  ║
-║   Builder by nature.                     ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
-
-![Profile views](https://komarev.com/ghpvc/?username=hole-six&color=00FFA3&style=flat-square&label=profile+views)
-
-</div>
