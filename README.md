@@ -1,125 +1,223 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=900&lines=L%C3%AA+H%C3%B2a;Polyglot+Full-Stack+Developer;Frontend+%7C+Backend+%7C+System;Build+Anything+With+Any+Stack" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>
-    I don’t depend on a framework.  
-    I understand systems, choose the right tools, and build scalable solutions.
-  </b>
-</p>
+<!-- HEADER TERMINAL ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=600&color=00FFA3&center=true&vCenter=true&repeat=true&width=700&lines=Lê+Hòa+%2F%2F+Full-Stack+Engineer;Polyglot+Developer+%7C+6%2B+Languages;Architecture+First.+Code+Second.;Build+systems+that+outlive+the+hype.)](https://github.com/hole-six)
 
----
+```
+╔══════════════════════════════════════════════════════════╗
+║  hole-six@arch:~$ whoami                                 ║
+║  > Lê Hòa — Polyglot Full-Stack Developer               ║
+║  hole-six@arch:~$ cat philosophy.txt                     ║
+║  > "Languages change. Principles stay."                  ║
+║  hole-six@arch:~$ uptime                                 ║
+║  > Always building. Never settling.                      ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## 🧠 Developer Profile
-
-- 👨‍💻 **Polyglot Full-Stack Developer**
-- 🧩 Comfortable with **multiple languages & paradigms**
-- 🏗 Strong focus on **architecture, maintainability, and scalability**
-- 🔁 Able to switch stacks quickly based on project requirements
-- 🎯 Goal: **build systems that last, not just apps that run**
-
-> _“Languages change. Principles stay.”_
+</div>
 
 ---
 
-## 🧬 Programming Languages
+<div align="center">
 
-### 🔹 Backend & System
-![C](https://img.shields.io/badge/C-Low_Level-blue)
-![C++](https://img.shields.io/badge/C++-System_Programming-00599C)
-![C#](https://img.shields.io/badge/C%23-.NET-512BD4?logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-OOP_&_Enterprise-red?logo=openjdk)
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php)
+## `$ cat /dev/brain`
 
-### 🔹 Frontend & Scripting
-![JavaScript](https://img.shields.io/badge/JavaScript-Core-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-Strong_Typing-3178C6?logo=typescript)
+</div>
 
----
-
-## ⚙ Frameworks & Ecosystems
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-Component_Based-61DAFB?logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/Vue.js-Reactive-42b883?logo=vue.js&logoColor=white)
-
-### 🧠 Backend
-![Laravel](https://img.shields.io/badge/Laravel-PHP_Framework-FF2D20?logo=laravel)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-Enterprise_Backend-512BD4?logo=dotnet)
-![Node.js](https://img.shields.io/badge/Node.js-JS_Runtime-22c55e?logo=node.js)
+```yaml
+name       : Lê Hòa
+alias      : hole-six
+role       : Polyglot Full-Stack Developer
+mindset    : Architecture-first, framework-agnostic
+principle  : Understand systems → Choose right tools → Build to last
+focus      : Frontend · Backend · System Design · Scalability
+```
 
 ---
 
-## 🏗 Architecture & Concepts
+## ⬡ Language Matrix
 
-![REST API](https://img.shields.io/badge/RESTful_API-Design-06b6d4)
-![MVC](https://img.shields.io/badge/MVC-Architecture-0891b2)
-![Clean Code](https://img.shields.io/badge/Clean_Code-Maintainable-164e63)
-![OOP](https://img.shields.io/badge/OOP-Design_Principles-f97316)
-![Data Structures](https://img.shields.io/badge/Data_Structures-%26_Algorithms-gray)
+<div align="center">
 
----
+| Layer | Language | Strength |
+|-------|----------|----------|
+| ⚙️ System / Low-level | `C` `C++` | Memory management, DSA foundations |
+| 🏢 Enterprise / OOP | `Java` `C#` | Architecture patterns, DI, enterprise systems |
+| 🌐 Web Backend | `PHP` `Node.js` | REST APIs, server-side logic |
+| 🎨 Frontend | `TypeScript` `JavaScript` | Type-safe UI, reactive systems |
 
-## 🗄 Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-Relational-gray?logo=microsoftsqlserver)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql)
-![Database Design](https://img.shields.io/badge/ERD-Data_Modeling-0e7490)
+</div>
 
 ---
 
-## ⚒ Tools & Workflow
+## ⬡ Stack Depth
 
-![Git](https://img.shields.io/badge/Git-Version_Control-f97316)
-![GitHub](https://img.shields.io/badge/GitHub-CI/CD-black?logo=github)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-ff6c37?logo=postman)
-![Linux](https://img.shields.io/badge/Linux-Environment-black?logo=linux)
+<details>
+<summary><b>🎨 Frontend</b></summary>
 
----
+```
+React ████████████████░░░░  80%   Component architecture, hooks, state management
+Vue   ████████████░░░░░░░░  65%   Composition API, reactive patterns
+TS    ████████████████████  95%   Strict typing, generics, advanced patterns
+```
+</details>
 
-## 📊 GitHub Analytics
+<details>
+<summary><b>🧠 Backend</b></summary>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hole-six&show_icons=true&theme=transparent&title_color=06b6d4&icon_color=22d3ee&text_color=164e63&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hole-six&theme=transparent&hide_border=true&ring=06b6d4&fire=22d3ee&currStreakLabel=0891b2" />
-</p>
+```
+Node.js      ████████████████░░░░  80%   Express, REST, async patterns
+Laravel      ███████████████░░░░░  75%   MVC, Eloquent ORM, middleware
+ASP.NET Core ████████████░░░░░░░░  65%   Enterprise API, dependency injection
+Java         ████████████░░░░░░░░  60%   Spring patterns, OOP depth
+```
+</details>
 
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hole-six&layout=compact&theme=transparent&hide_border=true&title_color=06b6d4&text_color=164e63" />
-</p>
+<details>
+<summary><b>🗄 Data</b></summary>
 
----
+```
+MySQL        ████████████████████  90%   Complex queries, indexing, optimization
+SQL Server   ████████████░░░░░░░░  65%   T-SQL, stored procedures
+Database Design ████████████████░  80%   ERD, normalization, schema architecture
+```
+</details>
 
-## 🐍 Contribution Activity
+<details>
+<summary><b>🏗 Architecture</b></summary>
 
-<p align="center">
-  <img src="https://github.com/hole-six/hole-six/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📌 What I Build
-
-- 🔹 Frontend apps with **React / Vue**
-- 🔹 Backend systems with **Laravel / ASP.NET / Node**
-- 🔹 Enterprise-style applications with **Java / C#**
-- 🔹 Low-level & academic foundations with **C / C++**
-- 🔹 Full-stack systems from **database → API → UI**
-
-> I choose the **right stack**, not the popular one.
-
----
-
-## 🌐 Connect
-
-- 📧 Email: **hoadt122@gmail.com**
-- 💻 GitHub: https://github.com/hole-six
-- 🌐 Profile: hole-six.site
-- 🌍 Website: https://websitegiare.netlify.app
+```
+RESTful API   ████████████████████  95%
+MVC Pattern   ████████████████████  95%
+Clean Code    ████████████████░░░░  85%
+OOP Principles████████████████████  90%
+Data Structures & Algo ████████░░░  70%
+```
+</details>
 
 ---
 
-<p align="center">
-  <i>Polyglot by skill. Architect by mindset.</i>
-</p>
+## ⬡ Architecture Principles
+
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   DB Schema → API Layer → Business Logic → UI       │
+│                                                     │
+│   Every layer:  Testable · Replaceable · Clear      │
+│                                                     │
+│   Not: "make it work"                               │
+│   But: "make it right, then make it fast"           │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+![REST API](https://img.shields.io/badge/RESTful_API-Design-00FFA3?style=flat-square&labelColor=0d1117)
+![MVC](https://img.shields.io/badge/MVC-Architecture-00FFA3?style=flat-square&labelColor=0d1117)
+![Clean Code](https://img.shields.io/badge/Clean_Code-Principles-00FFA3?style=flat-square&labelColor=0d1117)
+![OOP](https://img.shields.io/badge/OOP-SOLID-00FFA3?style=flat-square&labelColor=0d1117)
+![DSA](https://img.shields.io/badge/DSA-Foundations-00FFA3?style=flat-square&labelColor=0d1117)
+
+</div>
+
+---
+
+## ⬡ Toolchain
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-Actions_/_CI-ffffff?style=flat-square&logo=github&logoColor=black&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/Linux-Primary_Env-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117)
+![VSCode](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
+
+</div>
+
+---
+
+## ⬡ GitHub Signal
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hole-six&show_icons=true&theme=github_dark&title_color=00FFA3&icon_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=hole-six&theme=github-dark-blue&hide_border=true&ring=00FFA3&fire=00FFA3&currStreakLabel=00FFA3&background=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hole-six&layout=compact&theme=github_dark&title_color=00FFA3&text_color=c9d1d9&bg_color=0d1117&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## ⬡ Contribution Grid
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hole-six/hole-six/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hole-six/hole-six/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://github.com/hole-six/hole-six/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## ⬡ What I Actually Build
+
+```
+database ──────────────► API ──────────────► UI
+   │                      │                  │
+Schema design         REST / Auth        React / Vue
+Normalization         Business logic     TypeScript
+ERD modeling          Middleware         Component arch
+                      Error handling     State mgmt
+```
+
+> From zero to production. Across any stack.
+
+---
+
+## ⬡ The Way I Work
+
+```
+01. Understand the domain first — not the tech
+02. Design the data model before writing a line
+03. API contract before frontend starts
+04. Refactor relentlessly — good code is rewritten
+05. Document what matters, not everything
+```
+
+---
+
+<div align="center">
+
+## ⬡ Connect
+
+[![Email](https://img.shields.io/badge/hoadt122%40gmail.com-Mail-00FFA3?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hoadt122@gmail.com)
+[![GitHub](https://img.shields.io/badge/hole--six-GitHub-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/hole-six)
+[![Portfolio](https://img.shields.io/badge/hole--six.site-Portfolio-00FFA3?style=flat-square&logo=firefox&logoColor=white&labelColor=0d1117)](https://hole-six.site)
+[![Web](https://img.shields.io/badge/websitegiare.netlify.app-Web-00FFA3?style=flat-square&logo=netlify&logoColor=white&labelColor=0d1117)](https://websitegiare.netlify.app)
+
+---
+
+```
+╔══════════════════════════════════════════╗
+║                                          ║
+║   Polyglot by skill.                     ║
+║   Architect by mindset.                  ║
+║   Builder by nature.                     ║
+║                                          ║
+╚══════════════════════════════════════════╝
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=hole-six&color=00FFA3&style=flat-square&label=profile+views)
+
+</div>
